@@ -1,5 +1,5 @@
 import discord
-toke = 'INSERT TOKEN HERE'
+token = 'INSERT TOKEN HERE'
 
 intents = discord.Intents.default()
 intents.members = True
