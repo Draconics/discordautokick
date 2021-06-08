@@ -4,7 +4,6 @@ token = 'INSERT TOKEN HERE'
 intents = discord.Intents.default()
 intents.members = True
 client = discord.Client(intents=intents)
-prefix = "*"
 
 
 @client.event
